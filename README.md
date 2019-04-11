@@ -1,3 +1,2 @@
 # newrepository
-first git repo
-This is where there would be instructions
+First git repo. This is where there would be instructions. The purpose of this repository is so that I can practice pushing code and making multiple version that will be recorded in my version history. Yay, git push!
